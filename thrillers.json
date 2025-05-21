@@ -1,0 +1,27 @@
+{
+    title: : "A Quiet Place",
+    year: 2018,
+    director: "John Krasinski",
+    genre: "Thriller",
+    description: "In a post-apocalyptic world, a family must live in silence to avoid blind monsters with acute hearing. They communicate in sign language and navigate their lives in constant fear.",
+    rating: 7.5,
+    actors:
+        [
+            {
+                name: "Emily Blunt",
+                role: "Evelyn Abbott"
+            },
+            {
+                name: "John Krasinski",
+                role: "Lee Abbott"
+            },
+            {
+                name: "Millicent Simmonds",
+                role: "Regan Abbott"
+            },
+            {
+                name: "Noah Jupe",
+                role: "Marcus Abbott"
+            }
+        ],
+}
